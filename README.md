@@ -8,7 +8,7 @@ This project is designed to streamline the process of joining a specific target 
 
 To install the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/username/myproject.git`
+1. Clone the repository: `git clone https://github.com/0x31/Roblox-Server-Sniper.git`
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Run the application: `python src/app.py`
 
