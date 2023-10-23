@@ -24,7 +24,7 @@ class RobloxSniper:
 
     def calculateTime(self, tokens):
         x = 1500
-        y = int(WebScraper(f"https://www.roblox.com/games/{self.placeId}/UPD-Blade-Ball").returnPlayers()) - tokens
+        y = int(WebScraper(f"https://www.roblox.com/games/{self.placeId}").returnPlayers()) - tokens
         z = 4
 
         os.system("title " + f"ETA: {str(round(y / x * z, 2))} seconds    ^{self.separators[self.sepIdx]}^    Processed Tokens: {tokens}    ^{self.separators[self.sepIdx]}^    {self.target} in {self.placeId}...")
