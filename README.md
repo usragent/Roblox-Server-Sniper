@@ -14,9 +14,9 @@ To install the project, follow these steps:
 
 ## Usage
 
-To use the project, run the `app.py` script in the `src` directory.
-Open `/data/config.json` and fill `RobloxCookie` with your .ROBLOSECURITY and `Target` with the person you are sniping/joining.
-
+1. Open `/data/config.json` and fill `RobloxCookie` with your .ROBLOSECURITY and `Target` with the person you are sniping/joining.
+2. To use the project, run the `app.py` script in the `src` directory.
+   
 ## Contributing
 
 Contributions are welcome. To contribute:
